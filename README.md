@@ -3,7 +3,7 @@
 세션이 계속 유지되고 가볍게 굴릴 세컨 AI를 사용하기 위해
 OpenClaw + Discord 조합으로 사용 중
 
-[[README.PNG]]
+![README.PNG](./README.PNG)
 
 ---
 
